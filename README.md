@@ -14,7 +14,7 @@
  <a href="#-the-last-of-us---series-card">The Last Of Us</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
- <a href="#%EF%B8%8F-autora">Autora</a>
+ <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
 </p>
 
 # 🤗 Welcome
@@ -57,9 +57,9 @@ Se precisar de ajuda, entre em contato comigo 😉
 [<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
 [<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
 
-<br>
+<br><br>
 
-## 🙋‍♀️ Autora
+## 🙋‍♀️ Desenvolvedora
 
 <div>
   <img align="left" alt="Ana Valentim" width="100px" src="https://avatars.githubusercontent.com/u/31097110?v=4"/>
