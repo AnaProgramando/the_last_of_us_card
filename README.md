@@ -1,10 +1,17 @@
-﻿![banner the last of us card](https://github.com/AnaProgramando/the_last_of_us_card/blob/b45056c292b651544207167c6957a382390a6139/banner_the_last_of_us_card.png)
+<div align="right">
+
+#### Project in English: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](https://github.com/AnaProgramando/the_last_of_us_card/blob/9415162a71ee1a2c60ac3a9e731413b6013bfd28/README-us.md)</kbd>
+
+</div>
+
+![banner the last of us card](https://github.com/AnaProgramando/the_last_of_us_card/blob/b45056c292b651544207167c6957a382390a6139/banner_the_last_of_us_card.png)
 ----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
+ <a href="#-the-last-of-us---series-card">The Last Of Us</a> | 
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-autora">Autora</a>
@@ -22,6 +29,14 @@ Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar algu
 
 😉 Se tiver qualquer dúvida, me contate
 
+<br>
+
+## <img align="center" alt="Ana-JavaScript" height="40" src="https://hbomax-images.warnermediacdn.com/2022-12/01_13.png?host=wme-hbomax-drupal-prod.s3.amazonaws.com"> The Last Of Us - Series Card
+
+https://user-images.githubusercontent.com/31097110/222919677-2d53e606-b299-464d-be26-21955be8fea0.mp4
+
+<br>
+
 ## ❓ Dúvidas
 
 Qualquer dúvida, interaja aqui:
@@ -32,6 +47,8 @@ Qualquer dúvida, interaja aqui:
 
 😉Lembre-se de que esta é uma comunidade que construímos juntos 💪.
 
+<br>
+
 ## ✉️ Contatos
 
 Se precisar de ajuda, entre em contato comigo 😉
@@ -39,8 +56,8 @@ Se precisar de ajuda, entre em contato comigo 😉
 [<img align="left" alt="Gmail" width="80px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:anabe.valentim@gmail.com)
 [<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
 [<img align="left" alt="Beacons" width="80px" src="https://github.com/AnaProgramando/AnaProgramando/blob/31ac40741768033915a37ec0f949984bf6aad2d1/beacons_logo.png"/>](https://beacons.page/anaprogramando)
-<br>
 
+<br>
 
 ## 🙋‍♀️ Autora
 
