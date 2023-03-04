@@ -74,7 +74,6 @@ If you need help, contact me 😉
 <br><br>
 [⬆ Back to Top](https://github.com/AnaProgramando/the_last_of_us_card/blob/main/README-us.md#) <br>
 
-
  <div>
   <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/the_last_of_us_card/blob/31729fcb09b823eb1241f8b21269f620ec41f37a/Last%20of%20Us%20Pixel%20Art.png"/>
 </div>
